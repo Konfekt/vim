@@ -2543,7 +2543,7 @@ A jump table for the options with a short description can be found at |Q_op|.
 	defined by
 	        method_name : function() {...
 	this value of 'define' would be useful:
-	        ^\s*\ze\i+\s*[:]\s*(*function\s*(
+	        ^\s*\ze\i\+\s*:\s*(*function\s*(
 <	When using the ":set" command, you need to double the backslashes!
 
 			*'delcombine'* *'deco'* *'nodelcombine'* *'nodeco'*
